@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_pressed_color">#35a5e7</color>
+        <color name="tab_normal_color">#bcbfc1</color>
+    <color name="more_line_color">#cccccc</color>
+    <color name="more_bg_nor">#ffffff</color>
+    <color name="more_bg_p">#f5f5f5</color>
+    <color name="lightorange">#fdea98</color>
+    <color name="mainColor">#fedb43</color>
+    <color name="mainColorDark">#9e8829</color>
+    <color name="mainColorPressed">#f9be00</color>
+    <color name="simplegrey">#ffe9e8eb</color>
+    <color name="cred">#FFFF0000</color>
+    <color name="red_remind">#ffff4b4b</color>
+    <color name="red">#FFfb2a35</color>
+    <color name="deep_orange">#fff83b3b</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFF67B31</color>
+    <color name="orange_pressd">#FFB24700</color>
+    <color name="yellow">#FFFFCC33</color>
+    <color name="lightbackgound">#FFf8FAFC</color>
+    <color name="backgroundgrey">#FF454545</color>
+    <color name="pink">#f880ab</color>
+    <color name="lightpink">#febad2</color>
+    <color name="backgroundalpha">#FFF5F5F5</color>
+    <color name="background">#F6F7F8</color>
+    <color name="border">#FFE5E5E5</color>
+    <color name="eee">#FFEEEEEE</color>
+    <color name="deepborder">#FFC2C2C2</color>
+    <color name="desc">#FFCCCCCC</color>
+    <color name="lightgrey">#FF999999</color>
+    <color name="grey">#FF666666</color>
+    <color name="deepgrey">#FF333333</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF37acf4</color>
+    <color name="green">#ff2fc351</color>
+    <color name="play_mask">#55000000</color>
+    <color name="white_pressed">#11000000</color>
+    <color name="yellow_welcome">#FFEABB41</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_comments">#ffeeeeee</color>
+    <color name="yellow_zan">#fff0be09</color>
+    <color name="gender_female">#f880ab</color>
+    <color name="gender_male">#43c4fe</color>
+    <color name="grey_bg">#fff6f7f8</color>
+    <color name="bg_zan">#ff454545</color>
+    <color name="light_yellow">#ffefc9</color>
+    <color name="circle_grey">#d8d8d8</color>
+    <color name="active_user_mask">#782A2929</color>
+    <color name="mask_topic">#4d333333</color>
+    <color name="activity_pink">#ff63a2</color>
+    <color name="normal_grey">#c7c7cc</color>
+    <color name="white_a_90">#eeffffff</color>
+
+    <drawable name="bg_comment">#ffeeeeee</drawable>
+
+    <color name="welcome_red">#f86165</color>
+    <color name="welcome_red_pressed">#e2585b</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="topic_mask">#ad3d3d3d</color>
+    <color name="topic_mask_light">#1a3d3d3d</color>
+
+
+    <color name="color_gray_eaeaea">#eaeaea</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_black_d9d9d9">#d9d9d9</color>
+    <color name="color_purple_bd6aff">#bd6aff</color>
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+</resources>
